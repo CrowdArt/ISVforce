@@ -1,1 +1,2 @@
 # ISVforce
+* isvpartners@salesforce.com
